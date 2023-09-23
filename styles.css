@@ -69,23 +69,17 @@ a{
 #website {
     background-color: #212121;
 }
-#linkedin {
-    background-color: #0077b5;
-}
 #instagram {
     background-color: #e1306c;
 }
-#twitter {
-    background-color: #08a0e9;
-}
-#github {
-    background-color: #141414;
-}
-#freecodecamp {
-    background-color: #00003a;
+#linkedin {
+    background-color: #0077b5;
 }
 #whatsapp {
     background-color: #25d366;
+}
+#github {
+    background-color: #141414;
 }
 .image-container{
     height: 150px;
