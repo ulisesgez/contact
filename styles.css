@@ -46,11 +46,11 @@ a{
 }
 .tile{
     width: 100%;
-    margin: 7px;
+    margin: 5px;
     border-radius: 17px;
     display: flex;
     justify-content: space-between;
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 .tile:hover{
     transition: cubic-bezier(.07, 1.41, .82, 1.41) 0.2s;
