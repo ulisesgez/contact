@@ -7,7 +7,7 @@ body{
     align-items: center;
     flex-direction: column;
     width: 100vw;
-    font-family: Verdana, Tahoma, sans-serif;
+    font-family: 'Mooli', sans-serif;
 }
 header{
     width: 95%;
@@ -50,6 +50,7 @@ a{
     border-radius: 17px;
     display: flex;
     justify-content: space-between;
+    font-size: 1rem;
 }
 .tile:hover{
     transition: cubic-bezier(.07, 1.41, .82, 1.41) 0.2s;
@@ -59,7 +60,7 @@ a{
     margin: 8px;
     width: 40px;
     height: 40px;
-    border-radius: 20px;
+    border-radius: 1.5rem;
     background-color: rgb(52, 52, 52);
 }
 .tile-share-button svg{
